@@ -20,4 +20,4 @@ python3 -m http.server 8773 --bind 127.0.0.1
 
 Open http://127.0.0.1:8773/.
 
-`assets/kpi-paper.pdf` is the named 11-page release PDF. Replace it when a newer public paper version is available. The initial scientific page content came from the anonymous site's `c25ae0d` revision; only assets referenced by the page were copied to stay within the GitHub Pages size limit.
+`assets/kpi-paper.pdf` is the named 10-page release PDF, updated from `KPI_arxiv (4).pdf` on September 27, 2026. Replace it when a newer public paper version is available. The initial scientific page content came from the anonymous site's `c25ae0d` revision; only assets referenced by the page were copied to stay within the GitHub Pages size limit.
